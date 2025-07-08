@@ -7,7 +7,7 @@ This project uses machine-learning techniques to predict loan approval status (`
 - Evaluation using accuracy, ROC-AUC, classification reports, and ROC curves
 
 ## Dataset
-- **Source**: An Excel file (`loan_prediction.xlsx`) containing loan application records.
+- **Source**: An Excel file ([`loan_prediction.xlsx`](loan_prediction_classification/loan_prediction(1).xlsx)) containing loan application records.
 - **Target**: `Loan_Status` (`Y` = approved, `N` = rejected)
 - **Features**: 
   - Numerical: ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History
